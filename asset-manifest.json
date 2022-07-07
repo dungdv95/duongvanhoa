@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/duongvanhoa/static/css/main.9e824572.css",
+    "main.js": "/duongvanhoa/static/js/main.3a85e786.js",
+    "static/js/787.86d370db.chunk.js": "/duongvanhoa/static/js/787.86d370db.chunk.js",
+    "static/media/avatar.jpg": "/duongvanhoa/static/media/avatar.6680deab8bfa605b962b.jpg",
+    "static/media/default_background_horizontal.png": "/duongvanhoa/static/media/default_background_horizontal.45c50d8367c3fde3651e.png",
+    "static/media/instagram_icon.png": "/duongvanhoa/static/media/instagram_icon.995b7a3e23d55fe84d69.png",
+    "static/media/background-mobile.png": "/duongvanhoa/static/media/background-mobile.11707e6394b251dfa729.png",
+    "static/media/contact_icon.png": "/duongvanhoa/static/media/contact_icon.cd48ba6e96b466cb9134.png",
+    "static/media/email_icon.png": "/duongvanhoa/static/media/email_icon.8d55216f1780ecfa4edc.png",
+    "static/media/logo_zalo.png": "/duongvanhoa/static/media/logo_zalo.deb7b318248e0432a009.png",
+    "index.html": "/duongvanhoa/index.html",
+    "main.9e824572.css.map": "/duongvanhoa/static/css/main.9e824572.css.map",
+    "main.3a85e786.js.map": "/duongvanhoa/static/js/main.3a85e786.js.map",
+    "787.86d370db.chunk.js.map": "/duongvanhoa/static/js/787.86d370db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e824572.css",
+    "static/js/main.3a85e786.js"
+  ]
+}

@@ -218,7 +218,7 @@ function Main() {
           </CardContent>
         </Card>
       </Box>
-      <Box sx={{ marginTop: "5rem" }}>
+      <Box sx={{ marginTop: "4rem" }}>
         <Grid container alignItems="center" flexDirection="column">
           <Box className={classes.desc}>
             <h2 style={{ font: "inherit", margin: 0 }}>Ngân Hàng : MB Bank</h2>
@@ -228,6 +228,13 @@ function Main() {
           </Box>
           <Box className={classes.desc}>
             <h2 style={{ font: "inherit", margin: 0 }}>Số Tài Khoản : 9810119808888</h2>
+          </Box>
+        </Grid>
+      </Box>
+      <Box sx={{ marginTop: "2rem" }}>
+        <Grid container alignItems="center" flexDirection="column">
+          <Box className={classes.desc}>
+            <h4 style={{  margin: 0,color:'#2d6ccb' }}><i>Địa Chỉ</i> : Đường Đình - Phương Liễu - Quế Võ - Bắc Ninh - Việt Nam</h4>
           </Box>
         </Grid>
       </Box>
